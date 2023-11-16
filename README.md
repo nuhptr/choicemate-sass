@@ -12,7 +12,7 @@ text, video, code, image, audio, and more.
 
 ---General Dependencies---
 
--  [x]
+-  [x] @clerk/nextjs (https://www.npmjs.com/package/@clerk/nextjs) - `npm i @clerk/nextjs`
 
 ---Shadcn-ui Dependencies---
 
