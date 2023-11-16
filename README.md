@@ -3,6 +3,8 @@ text, video, code, image, audio, and more.
 
 <!-- Image Section -->
 
+<!-- Timeline () -->
+
 ## Getting Started
 
 -  [x] `npx create-next-app@latest [project-name] --typescript --tailwind --eslint`
