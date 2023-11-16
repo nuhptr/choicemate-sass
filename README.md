@@ -3,7 +3,7 @@ text, video, code, image, audio, and more.
 
 <!-- Image Section -->
 
-<!-- Timeline () -->
+<!-- Timeline (1:10:49) -->
 
 ## Getting Started
 
